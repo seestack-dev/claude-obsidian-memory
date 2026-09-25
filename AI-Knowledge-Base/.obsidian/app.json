@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Assets/Images",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "absolute",
+  "uriCallbacks": true,
+  "livePreview": false,
+  "showInlineTitle": false,
+  "spellcheck": false,
+  "defaultViewMode": "preview"
+}

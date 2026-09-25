@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "99d24e82e0521afb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d79ea0cc8760f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a1e4b504d80ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agents/Config/Auto-memory/daily-journal-structure.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily-journal-structure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75a77c0093c35879",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b15e92bdf3df8b",
+        "type": "tabs",
+        "dimension": 70.19374068554397,
+        "children": [
+          {
+            "id": "d3e6579dff995892",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a2d7b2973a1c8d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bbe9911c8fc53602",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "87346294dac9a713",
+        "type": "tabs",
+        "dimension": 29.80625931445604,
+        "children": [
+          {
+            "id": "9d1d14f529823eb5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Agents/Config/Auto-memory/daily-journal-structure.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5554790375729187,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Local graph"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.40234375
+  },
+  "right": {
+    "id": "67fd293401f21c5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4f0ae7ecb4786ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd45e41f182090a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2026/08/27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2a51a1d00e69f806",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2026/08/27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7bf1f872684ff0bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3a45f7dbbf7eb07",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5e4a38dc2bfa5181",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2026/08/27.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "56a1e4b504d80ae9",
+  "lastOpenFiles": [
+    "Agents/Config/Auto-memory/concise-answers-with-headings.md",
+    "Agents.md",
+    "Journal/2026.md",
+    "Journal/2026/09.md",
+    "Journal/2026/09/19.md",
+    "Journal/2026/08/27.md",
+    "Journal/2026/09",
+    "Journal/2026/08.md",
+    "Agents/Config/Auto-memory/daily-journal-structure.md",
+    "Agents/Commands/Daily-Journal.md",
+    "Journal/2026/08",
+    "Journal/2026",
+    "Journal/Journal.md",
+    "Agents/Skills/daily-journal/SKILL.md",
+    "Templates/Daily.md",
+    "Templates/Month.md",
+    "Templates/Year.md",
+    "Agents/Config/Auto-memory/MEMORY.md",
+    "Agents/Config/Auto-memory.md",
+    "CLAUDE.md",
+    "Agents/Scripts/daily-journal.sh",
+    "Agents/Scripts",
+    "Agents/Skills/daily-journal",
+    "Agents/Skills",
+    "Agents/Commands"
+  ]
+}
